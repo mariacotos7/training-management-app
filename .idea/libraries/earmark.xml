@@ -1,6 +1,7 @@
 <component name="libraryTable">
-  <library name="earmark" type="mix">
+  <library name="earmark">
     <CLASSES />
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>

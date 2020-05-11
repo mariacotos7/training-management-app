@@ -1,6 +1,7 @@
 <component name="libraryTable">
-  <library name="kadabra" type="mix">
+  <library name="kadabra">
     <CLASSES />
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>

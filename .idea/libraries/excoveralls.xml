@@ -1,6 +1,7 @@
 <component name="libraryTable">
-  <library name="excoveralls" type="mix">
+  <library name="excoveralls">
     <CLASSES />
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>

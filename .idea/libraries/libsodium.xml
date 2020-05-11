@@ -1,6 +1,7 @@
 <component name="libraryTable">
-  <library name="libsodium" type="mix">
+  <library name="libsodium">
     <CLASSES />
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>

@@ -1,6 +1,7 @@
 <component name="libraryTable">
-  <library name="jsx" type="mix">
+  <library name="jsx">
     <CLASSES />
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>
