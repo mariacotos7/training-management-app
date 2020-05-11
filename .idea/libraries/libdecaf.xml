@@ -1,6 +1,7 @@
 <component name="libraryTable">
-  <library name="libdecaf" type="mix">
+  <library name="libdecaf">
     <CLASSES />
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>

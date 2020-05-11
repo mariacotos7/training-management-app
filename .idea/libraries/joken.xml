@@ -1,8 +1,9 @@
 <component name="libraryTable">
-  <library name="joken" type="mix">
+  <library name="joken">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/_build/dev/lib/joken/ebin" />
     </CLASSES>
+    <JAVADOC />
     <SOURCES>
       <root url="file://$PROJECT_DIR$/deps/joken/lib" />
     </SOURCES>

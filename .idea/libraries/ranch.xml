@@ -1,8 +1,9 @@
 <component name="libraryTable">
-  <library name="ranch" type="mix">
+  <library name="ranch">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/_build/dev/lib/ranch/ebin" />
     </CLASSES>
+    <JAVADOC />
     <SOURCES>
       <root url="file://$PROJECT_DIR$/deps/ranch/src" />
     </SOURCES>

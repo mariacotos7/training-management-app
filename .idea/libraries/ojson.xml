@@ -1,6 +1,7 @@
 <component name="libraryTable">
-  <library name="ojson" type="mix">
+  <library name="ojson">
     <CLASSES />
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>

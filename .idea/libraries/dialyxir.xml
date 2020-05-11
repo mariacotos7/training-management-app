@@ -1,6 +1,7 @@
 <component name="libraryTable">
-  <library name="dialyxir" type="mix">
+  <library name="dialyxir">
     <CLASSES />
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>

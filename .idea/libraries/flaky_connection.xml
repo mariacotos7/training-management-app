@@ -1,6 +1,7 @@
 <component name="libraryTable">
-  <library name="flaky_connection" type="mix">
+  <library name="flaky_connection">
     <CLASSES />
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>
