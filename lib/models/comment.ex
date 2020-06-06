@@ -9,6 +9,8 @@ defmodule TrainingManagement.Models.Comment do
     :id_user,
     :id_training,
     :content,
-    :date
+    :date,
+    :created_at,
+    :updated_at
   ]
 end

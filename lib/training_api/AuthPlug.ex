@@ -3,7 +3,6 @@ defmodule TrainingManagement.AuthPlug do
 
   require Logger
 
-
   def init(opts), do: opts
 
   def call(conn, _opts) do

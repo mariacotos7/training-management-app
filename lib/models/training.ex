@@ -15,6 +15,8 @@ defmodule TrainingManagement.Models.Training do
     :details,
     :max_participants,
     :id_trainer,
-    :approved
+    :approved,
+    :created_at,
+    :updated_at
   ]
 end

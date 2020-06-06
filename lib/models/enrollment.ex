@@ -7,6 +7,8 @@ defmodule TrainingManagement.Models.Enrollment do
   defstruct [
     :id,
     :id_user,
-    :id_training
+    :id_training,
+    :created_at,
+    :updated_at
   ]
 end

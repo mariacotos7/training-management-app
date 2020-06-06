@@ -9,6 +9,8 @@ defmodule TrainingManagement.Models.Announcement do
     :id_trainer,
     :id_training,
     :content,
-    :date
+    :date,
+    :created_at,
+    :updated_at
   ]
 end

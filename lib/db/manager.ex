@@ -132,7 +132,6 @@ defmodule TrainingManagement.DB.Manager do
     end
   end
 
-
   @doc "
   Retrieves document that matches `username` (Map).
 

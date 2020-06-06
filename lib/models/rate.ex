@@ -8,6 +8,8 @@ defmodule TrainingManagement.Models.Rate do
     :id,
     :id_user,
     :id_training,
-    :rate
+    :rate,
+    :created_at,
+    :updated_at
   ]
 end
